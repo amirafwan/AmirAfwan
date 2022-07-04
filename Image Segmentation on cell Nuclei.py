@@ -13,8 +13,8 @@ import numpy as np
 
 #1. Load the dataset
 #1.1 Prepare file directory
-train_file_dir = r"C:\Users\asus\Documents\tensorflow\GitHub\Project-4-Image-Segmentation-on-Cell-Nuclei\data-science-bowl-2018\train"
-test_file_dir = r"C:\Users\asus\Documents\tensorflow\GitHub\Project-4-Image-Segmentation-on-Cell-Nuclei\data-science-bowl-2018\test"
+train_file_dir = r"C:\Users\USERS\Documents\tensorflow\GitHub\Project-4-Image-Segmentation-on-Cell-Nuclei\data-science-bowl-2018\train"
+test_file_dir = r"C:\Users\USERS\Documents\tensorflow\GitHub\Project-4-Image-Segmentation-on-Cell-Nuclei\data-science-bowl-2018\test"
 
 #%%
 #1.2 Load the images list
